@@ -24,8 +24,8 @@ Here are some ideas to get you started:
   <img align="center" alt="Rafa-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Python" height="40" width="40" src="https://user-images.githubusercontent.com/94553130/143364764-3bcb183c-dc25-4058-ae5c-18786aba50ad.jpg">
+  <img align="center" alt="Rafa-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-CS50" height="60" width="60" src="https://user-images.githubusercontent.com/94553130/143365384-b0d2ef5c-ddd0-47dc-813c-60f0b742e7e6.jpg">
 </div>
 <br>   
 <div>
