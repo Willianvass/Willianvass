@@ -15,6 +15,7 @@
   <img align="center" alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Python" height="50" width="50" src="https://user-images.githubusercontent.com/94553130/143688066-87cf7a7b-c947-4498-82b5-1aa6849663bf.png">  
   <img align="center" alt="CS50" height="50" width="50" src="https://user-images.githubusercontent.com/94553130/143471638-b972b0b5-2716-42e1-9628-82f98319711e.png">
+  <img align="center" alt="CS50" height="50" width="50" src="https://user-images.githubusercontent.com/94553130/146219637-3bb22cfc-dda2-4eb2-a7cc-a1a00a52d5ee.png">
   <img align="center" alt="CS50" height="60" width="60" src="https://user-images.githubusercontent.com/94553130/143365384-b0d2ef5c-ddd0-47dc-813c-60f0b742e7e6.jpg">
 </div>
 <br>   
