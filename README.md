@@ -1,4 +1,4 @@
-### Olá sou Willian, seja bem vindo!!   
+# Olá sou Willian, seja bem vindo!!   
 
 <div align="center">
     <a href="https://github.com/willianvass">
@@ -13,7 +13,9 @@
   <img align="center" alt="HTML" height="50" width="50" src="https://user-images.githubusercontent.com/94553130/143727404-c088cca4-3f0a-46f9-8b56-3ce604644968.png">
   <img align="center" alt="CSS" height="50" width="40" src="https://user-images.githubusercontent.com/94553130/143727443-041fedca-2502-454d-845c-920433b059ca.png">
   <img align="center" alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Python" height="50" width="50" src="https://user-images.githubusercontent.com/94553130/143688066-87cf7a7b-c947-4498-82b5-1aa6849663bf.png">  
+  <img align="center" alt="PyCharm" height="50" width="50" src="https://user-images.githubusercontent.com/94553130/143688066-87cf7a7b-c947-4498-82b5-1aa6849663bf.png"> 
+  <img align="center" alt="Java" height="50" width="35"src="https://user-images.githubusercontent.com/94553130/147619755-ca815983-c22c-4e9e-98db-0070767dd67e.jpg"> 
+  <img align="center" alt="Eclipse" height="50" width="50" src="https://user-images.githubusercontent.com/94553130/147619527-67a4efb8-eda3-4836-8d19-58fac5ed0dd8.png">    
   <img align="center" alt="CS50" height="50" width="50" src="https://user-images.githubusercontent.com/94553130/143471638-b972b0b5-2716-42e1-9628-82f98319711e.png">
   <img align="center" alt="CS50" height="50" width="50" src="https://user-images.githubusercontent.com/94553130/146219637-3bb22cfc-dda2-4eb2-a7cc-a1a00a52d5ee.png">
   <img align="center" alt="CS50" height="60" width="60" src="https://user-images.githubusercontent.com/94553130/143365384-b0d2ef5c-ddd0-47dc-813c-60f0b742e7e6.jpg">
