@@ -7,7 +7,6 @@
 </div>
   </div>
 <div style="display: inline_block"><br>
-  <a href="https://www.javascript.com/" target="_blank">
   <img align="center" alt="JS" height="50" width="50" src="https://user-images.githubusercontent.com/94553130/143727383-3555c184-2061-491e-9ed5-37b784c6f010.png">
   <img align="center" alt="Visual" height="50" width="50" src="https://user-images.githubusercontent.com/94553130/143688088-d6786cb1-613d-4fbc-b657-00b3e9ea1b0e.jpg">  
   <img align="center" alt="Code" height="40" width="60" src="https://user-images.githubusercontent.com/94553130/143682719-cc590ae9-867c-4430-9b03-a0512f6c6745.png"> 
