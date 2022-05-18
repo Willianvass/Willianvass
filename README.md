@@ -1,8 +1,6 @@
 # Olá sou Willian, seja bem vindo!!   
 
 <div align="center">
-    <a href="https://github.com/willianvass">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willianvass&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://user-images.githubusercontent.com/94553130/143157163-7a91aa27-8119-4eba-93ff-8b4b87f67dc1.png"/>
 </div>
   </div>
